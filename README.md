@@ -83,14 +83,22 @@ I work primarily with the following technologies, focusing on creating efficient
 
 ---
 
+## 📌 Pinned Projects
 
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=TheMamunDev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mahmud's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=TheMamunDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Mahmud's Top Languages">
+| HomeNest | DevMart | Tree Plant |
+|----------------|----------------|------------|
+| <a href="https://github.com/TheMamunDev/HomeNest-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMamunDev&repo=HomeNest-client&theme=dark" /></a> | <a href="https://github.com/TheMamunDev/DevMart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMamunDev&repo=DevMart&theme=dark" /></a> | <a href="https://github.com/TheMamunDev/treeplant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMamunDev&repo=treeplant&theme=dark" /></a> |
 
 ---
+
+## 📊 GitHub Stats
+
+| GitHub Stats | Streak Stats | Top Languages |
+|--------------|--------------|----------------|
+| ![](https://github-readme-stats.vercel.app/api?username=TheMamunDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=TheMamunDev&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMamunDev&theme=dark&hide_border=false&layout=compact) |
+
+---
+
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
@@ -99,3 +107,8 @@ I work primarily with the following technologies, focusing on creating efficient
 </p>
 
 **Thank you** for stopping by my profile — feel free to explore my repos, give feedback, or connect! 🚀  
+<br/>
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=TheMamunDev&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmud Hasan" /> 
+</p>
