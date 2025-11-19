@@ -15,6 +15,15 @@
 
 I’m a **MERN** Stack developer passionate about building fast, scalable, and user-friendly web applications. I love working with MongoDB, Express, React, and Node.js to bring ideas to life and continuously expand my full-stack development skills.
 
+---
+
+<h4>About Me</h4>
+
+- 🔭 I’m currently working on **Zap Shift Project**
+- 🌱 Learning **Next.js & Node.js Express Js Day By Day**
+- 💬 Ask me anything about **JavaScript, React, or MERN Stack**
+
+---
 ## 🛠️ Tech Stack & Tools
 
 I work primarily with the following technologies, focusing on creating efficient and scalable applications.
@@ -81,6 +90,7 @@ I work primarily with the following technologies, focusing on creating efficient
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=TheMamunDev&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Mahmud's Top Languages">
 
+---
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
