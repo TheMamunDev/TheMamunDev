@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheMamunDev/TheMamunDev/main/banner.png" alt="Mahmud Hasan Banner" height="400px">
+  <img src="https://raw.githubusercontent.com/TheMamunDev/TheMamunDev/main/banner1.png" alt="Mahmud Hasan Banner" height="400px">
 </p>
 
 
